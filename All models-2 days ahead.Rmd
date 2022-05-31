@@ -94,7 +94,7 @@ N=258246
 n=6000
 sys = function(N,n){
     r = sample(1:(N-n), 1)
-    seq(r, ((r + 6000) -1), 1)    #selecting consecutive random data set
+    seq(r, ((r + 6000) -1), 1)    #selecting 4 days consecutive random data set
 }
 sys_sample<-raw_data[sys(nrow(raw_data), 6000), ]
 
