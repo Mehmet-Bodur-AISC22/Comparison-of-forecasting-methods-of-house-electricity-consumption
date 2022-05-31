@@ -1,2 +1,2 @@
 # Electricity-Forecasting
-I Built three different well developed models (BRNN, SVR, Fuzzy SBC) for forecasting and tested them in three different time terms (Very Short, Short, Medium) and compared them to see weaknesses and strengths of each model in different time terms. Additionally, their processing time are measured as well.
+I Built three different well developed models for forecasting (BRNN, SVR, Fuzzy SBC)  and tested them in three different time terms (Very Short, Short, Medium) and compared them to reveal weaknesses and strengths of each model in different time terms. Additionally, their processing time are measured as well. Honda Smart Home US dataset chose as a case study for this study.
